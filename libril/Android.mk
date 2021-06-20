@@ -1,5 +1,7 @@
 # Copyright 2006 The Android Open Source Project
 
+ifndef BUILD_LOCAL_LIBRIL
+
 LOCAL_PATH:= $(call my-dir)
 include $(CLEAR_VARS)
 
@@ -46,4 +48,6 @@ LOCAL_MODULE:= libril
 LOCAL_SANITIZE := integer
 
 include $(BUILD_SHARED_LIBRARY)
+
+endif
 
