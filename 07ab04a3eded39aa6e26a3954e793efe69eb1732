@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "477ae6d1_dcedb2b0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 774
+      },
+      "writtenOn": "2021-06-20T20:05:52Z",
+      "side": 1,
+      "message": "Code review +2 lgtm ship it 😄",
+      "revId": "07ab04a3eded39aa6e26a3954e793efe69eb1732",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
