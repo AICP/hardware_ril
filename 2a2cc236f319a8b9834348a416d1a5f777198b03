@@ -33,6 +33,23 @@
       "message": "corresponding device-commit is:\nhttps://gerrit.aicp-rom.com/c/AICP/device_htc_m7-common/+/110654",
       "revId": "2a2cc236f319a8b9834348a416d1a5f777198b03",
       "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "60c73f01_85d52c69",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 343
+      },
+      "writtenOn": "2021-06-20T17:45:13Z",
+      "side": 1,
+      "message": "yes, sir...\nmaybe adding a [DNM] in the commit message could help keeping mergers away. 😉",
+      "revId": "2a2cc236f319a8b9834348a416d1a5f777198b03",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
     }
   ]
 }
