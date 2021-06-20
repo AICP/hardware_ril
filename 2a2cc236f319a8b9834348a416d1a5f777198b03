@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8297cf70_640b5255",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1375
+      },
+      "writtenOn": "2021-06-20T17:05:55Z",
+      "side": 1,
+      "message": "I need this to compile libril for m7.\nI pushed current state of hardware_ril into new r11.1 branch.\nIf you have any objections, please let me know.\nThis is only for picking",
+      "revId": "2a2cc236f319a8b9834348a416d1a5f777198b03",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
